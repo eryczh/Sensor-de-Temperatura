@@ -19,8 +19,8 @@
 DHT dht(DHTPIN, DHTTYPE);
 
 char auth[] = BLYNK_AUTH_TOKEN; //Enter the auth code which was send by Blynk
-char ssid[] = "FAMILA PAIXAO"; // Enter WiFi Name
-char pass[] = "M77e03l69f02@ulli"; // Enter WiFi Password
+char ssid[] = ""; // Enter WiFi Name
+char pass[] = ""; // Enter WiFi Password
 
 
 void setup() {
